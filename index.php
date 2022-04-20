@@ -11,7 +11,10 @@
 
 <body>
 
-    <h1>test</h1>       
+    <h1 id="div1">Test API avec openweathermap.org</h1>   
 
+    <div id="container">
+
+    </div>
 </body>
 </html>
